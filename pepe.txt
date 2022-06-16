@@ -1,5 +1,0 @@
-api key:SddUFQK6iHpCE4OL64eGjQDTT
-apy key secret: oGsqsPoygiCcFCVVfwkYUYhnnpPUA4Xdw3n4Hs7s32kWVRpeAd
-bearer token: AAAAAAAAAAAAAAAAAAAAABeYdgEAAAAAPOZJHHuvHvfsXf29%2BXS%2Fw7oj5Io%3DYLtinQa6LrvC10qnlvm6mTg1Ks0TIS3HFvw6p2RqGUOaGBptVL
-clientid:d2pBeXlQcGZvdGc1bjR4V1d4dGQ6MTpjaQ
-client secret:USJb9Q7ygwDkKwo2UAWPvA8z4fJOFTAlD4NG1gxowKB9xRnlF8
